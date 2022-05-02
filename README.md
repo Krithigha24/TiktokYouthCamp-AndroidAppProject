@@ -1,1 +1,1 @@
-# TiktokYouthCamp-AndroidAppProject
+# Tiktok Youth Camp Android App Project
